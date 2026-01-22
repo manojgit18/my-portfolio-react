@@ -12,8 +12,8 @@ const LatestProjects = () => {
       description:
         "Web application to manage renovation tasks, expenses, and timelines with a clean, structured interface.",
       tech: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/manojgit18/Home-Renovation-Tracker-Management/tree/master",
-      live: "https://homereset.netlify.app/",
+      github: "https://github.com/manojgit18/Quick-Note-App",
+      live: "https://quick-note-app-fmzu.onrender.com/",
     },
     {
       id: 2,
