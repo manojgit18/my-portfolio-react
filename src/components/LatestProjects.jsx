@@ -1,5 +1,5 @@
 import React from "react";
-import homeRenovation from "../assets/home-renovation.PNG";
+import quicknote from "../assets/quicknote.PNG";
 import synapseImg from "../assets/synapse.PNG";
 import habitflowImg from "../assets/habitflow.PNG";
 
@@ -7,8 +7,8 @@ const LatestProjects = () => {
   const projects = [
     {
       id: 1,
-      name: "Home Renovation Tracker",
-      image: homeRenovation,
+      name: "QuickNote",
+      image: quicknote,
       description:
         "Web application to manage renovation tasks, expenses, and timelines with a clean, structured interface.",
       tech: ["HTML", "CSS", "JavaScript"],
